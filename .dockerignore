@@ -1,0 +1,4 @@
+bin/*
+tmp/*
+misc/docker/release/*
+Dockerfile
